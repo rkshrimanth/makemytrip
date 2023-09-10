@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import com.initialization.Initialization;
 
-public class BookingFligthsTests extends Initialization{
+public class BookingFligthTests extends Initialization{
 	
 	@Test(priority=1)
 	
