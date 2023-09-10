@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T00:49:44 IST" name="Default suite" finished-at="2023-09-11T00:50:32 IST" duration-ms="48179">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T00:49:44 IST" name="Default test" finished-at="2023-09-11T00:50:32 IST" duration-ms="48179">
+      <class name="com.makemytriptests.BookingFligthsTests">
+        <test-method is-config="true" signature="configBeforeClass()[pri:0, instance:com.makemytriptests.BookingFligthsTests@652ce654]" started-at="2023-09-11T00:49:44 IST" name="configBeforeClass" finished-at="2023-09-11T00:49:44 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method is-config="true" signature="implicitWait()[pri:0, instance:com.makemytriptests.BookingFligthsTests@652ce654]" started-at="2023-09-11T00:49:44 IST" name="implicitWait" finished-at="2023-09-11T00:49:44 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- implicitWait -->
+        <test-method signature="bookingFlight()[pri:1, instance:com.makemytriptests.BookingFligthsTests@652ce654]" started-at="2023-09-11T00:49:44 IST" name="bookingFlight" finished-at="2023-09-11T00:50:30 IST" duration-ms="45880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingFlight -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.makemytriptests.BookingFligthsTests@652ce654]" started-at="2023-09-11T00:50:30 IST" name="closeBrowser" finished-at="2023-09-11T00:50:32 IST" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.makemytriptests.BookingFligthsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
